@@ -1,0 +1,31 @@
+group,shape,count,n,pct
+CPI,bear steepener,9,58,15.517241379310345
+CPI,bear flattener,14,58,24.137931034482758
+CPI,bull steepener,14,58,24.137931034482758
+CPI,bull flattener,16,58,27.586206896551722
+CPI,parallel/unchanged,5,58,8.620689655172415
+CPI,twist (no level move),0,58,0.0
+FOMC,bear steepener,6,39,15.384615384615385
+FOMC,bear flattener,9,39,23.076923076923077
+FOMC,bull steepener,13,39,33.333333333333336
+FOMC,bull flattener,6,39,15.384615384615385
+FOMC,parallel/unchanged,3,39,7.6923076923076925
+FOMC,twist (no level move),2,39,5.128205128205129
+NORMAL,bear steepener,307,1150,26.695652173913043
+NORMAL,bear flattener,233,1150,20.26086956521739
+NORMAL,bull steepener,178,1150,15.478260869565217
+NORMAL,bull flattener,268,1150,23.304347826086957
+NORMAL,parallel/unchanged,137,1150,11.91304347826087
+NORMAL,twist (no level move),27,1150,2.347826086956522
+hawkish (CPI+FOMC),bear steepener,5,32,15.625
+hawkish (CPI+FOMC),bear flattener,21,32,65.625
+hawkish (CPI+FOMC),bull steepener,0,32,0.0
+hawkish (CPI+FOMC),bull flattener,1,32,3.125
+hawkish (CPI+FOMC),parallel/unchanged,4,32,12.5
+hawkish (CPI+FOMC),twist (no level move),1,32,3.125
+dovish (CPI+FOMC),bear steepener,0,33,0.0
+dovish (CPI+FOMC),bear flattener,0,33,0.0
+dovish (CPI+FOMC),bull steepener,25,33,75.75757575757575
+dovish (CPI+FOMC),bull flattener,7,33,21.21212121212121
+dovish (CPI+FOMC),parallel/unchanged,1,33,3.0303030303030303
+dovish (CPI+FOMC),twist (no level move),0,33,0.0

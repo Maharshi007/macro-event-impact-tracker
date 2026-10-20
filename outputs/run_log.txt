@@ -1,0 +1,5 @@
+tag
+NORMAL    1150
+CPI         58
+FOMC        39
+BOTH         1

@@ -1,0 +1,14 @@
+{
+  "available": true,
+  "n_fomc": 36,
+  "n_normal": 1089,
+  "n_fomc_dropped_roll_day": 3,
+  "mean_abs_fomc_bp": 0.6319469875759549,
+  "mean_abs_normal_bp": 0.1747124341783133,
+  "ir": 3.617069331945678,
+  "corr_with_d2y_fomc": -0.2810585841897597,
+  "max_fomc_move": [
+    "2024-09-18",
+    -4.250335693360796
+  ]
+}

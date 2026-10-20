@@ -1,0 +1,100 @@
+date,event,source_url,verified,note
+2021-01-13,CPI,https://www.bls.gov/news.release/archives/cpi_01132021.htm,True,ref month December 2020
+2021-01-27,FOMC,https://www.federalreserve.gov/newsevents/pressreleases/monetary20210127a.htm,True,meeting January 26-27
+2021-02-10,CPI,https://www.bls.gov/news.release/archives/cpi_02102021.htm,True,ref month January 2021
+2021-03-10,CPI,https://www.bls.gov/news.release/archives/cpi_03102021.htm,True,ref month February 2021
+2021-03-17,FOMC,https://www.federalreserve.gov/newsevents/pressreleases/monetary20210317a.htm,True,meeting March 16-17*
+2021-04-13,CPI,https://www.bls.gov/news.release/archives/cpi_04132021.htm,True,ref month March 2021
+2021-04-28,FOMC,https://www.federalreserve.gov/newsevents/pressreleases/monetary20210428a.htm,True,meeting April 27-28
+2021-05-12,CPI,https://www.bls.gov/news.release/archives/cpi_05122021.htm,True,ref month April 2021
+2021-06-10,CPI,https://www.bls.gov/news.release/archives/cpi_06102021.htm,True,ref month May 2021
+2021-06-16,FOMC,https://www.federalreserve.gov/newsevents/pressreleases/monetary20210616a.htm,True,meeting June 15-16*
+2021-07-13,CPI,https://www.bls.gov/news.release/archives/cpi_07132021.htm,True,ref month June 2021
+2021-07-28,FOMC,https://www.federalreserve.gov/newsevents/pressreleases/monetary20210728a.htm,True,meeting July 27-28
+2021-08-11,CPI,https://www.bls.gov/news.release/archives/cpi_08112021.htm,True,ref month July 2021
+2021-09-14,CPI,https://www.bls.gov/news.release/archives/cpi_09142021.htm,True,ref month August 2021
+2021-09-22,FOMC,https://www.federalreserve.gov/newsevents/pressreleases/monetary20210922a.htm,True,meeting September 21-22*
+2021-10-13,CPI,https://www.bls.gov/news.release/archives/cpi_10132021.htm,True,ref month September 2021
+2021-11-03,FOMC,https://www.federalreserve.gov/newsevents/pressreleases/monetary20211103a.htm,True,meeting November 2-3
+2021-11-10,CPI,https://www.bls.gov/news.release/archives/cpi_11102021.htm,True,ref month October 2021
+2021-12-10,CPI,https://www.bls.gov/news.release/archives/cpi_12102021.htm,True,ref month November 2021
+2021-12-15,FOMC,https://www.federalreserve.gov/newsevents/pressreleases/monetary20211215a.htm,True,meeting December 14-15*
+2022-01-12,CPI,https://www.bls.gov/news.release/archives/cpi_01122022.htm,True,ref month December 2021
+2022-01-26,FOMC,https://www.federalreserve.gov/newsevents/pressreleases/monetary20220126a.htm,True,meeting January 25-26
+2022-02-10,CPI,https://www.bls.gov/news.release/archives/cpi_02102022.htm,True,ref month January 2022
+2022-03-10,CPI,https://www.bls.gov/news.release/archives/cpi_03102022.htm,True,ref month February 2022
+2022-03-16,FOMC,https://www.federalreserve.gov/newsevents/pressreleases/monetary20220316a.htm,True,meeting March 15-16*
+2022-04-12,CPI,https://www.bls.gov/news.release/archives/cpi_04122022.htm,True,ref month March 2022
+2022-05-04,FOMC,https://www.federalreserve.gov/newsevents/pressreleases/monetary20220504a.htm,True,meeting May 3-4
+2022-05-11,CPI,https://www.bls.gov/news.release/archives/cpi_05112022.htm,True,ref month April 2022
+2022-06-10,CPI,https://www.bls.gov/news.release/archives/cpi_06102022.htm,True,ref month May 2022
+2022-06-15,FOMC,https://www.federalreserve.gov/newsevents/pressreleases/monetary20220615a.htm,True,meeting June 14-15*
+2022-07-13,CPI,https://www.bls.gov/news.release/archives/cpi_07132022.htm,True,ref month June 2022
+2022-07-27,FOMC,https://www.federalreserve.gov/newsevents/pressreleases/monetary20220727a.htm,True,meeting July 26-27
+2022-08-10,CPI,https://www.bls.gov/news.release/archives/cpi_08102022.htm,True,ref month July 2022
+2022-09-13,CPI,https://www.bls.gov/news.release/archives/cpi_09132022.htm,True,ref month August 2022
+2022-09-21,FOMC,https://www.federalreserve.gov/newsevents/pressreleases/monetary20220921a.htm,True,meeting September 20-21*
+2022-10-13,CPI,https://www.bls.gov/news.release/archives/cpi_10132022.htm,True,ref month September 2022
+2022-11-02,FOMC,https://www.federalreserve.gov/newsevents/pressreleases/monetary20221102a.htm,True,meeting November 1-2
+2022-11-10,CPI,https://www.bls.gov/news.release/archives/cpi_11102022.htm,True,ref month October 2022
+2022-12-13,CPI,https://www.bls.gov/news.release/archives/cpi_12132022.htm,True,ref month November 2022
+2022-12-14,FOMC,https://www.federalreserve.gov/newsevents/pressreleases/monetary20221214a.htm,True,meeting December 13-14*
+2023-01-12,CPI,https://www.bls.gov/news.release/archives/cpi_01122023.htm,True,ref month December 2022
+2023-02-01,FOMC,https://www.federalreserve.gov/newsevents/pressreleases/monetary20230201a.htm,True,meeting Jan/Feb 31-1
+2023-02-14,CPI,https://www.bls.gov/news.release/archives/cpi_02142023.htm,True,ref month January 2023
+2023-03-14,CPI,https://www.bls.gov/news.release/archives/cpi_03142023.htm,True,ref month February 2023
+2023-03-22,FOMC,https://www.federalreserve.gov/newsevents/pressreleases/monetary20230322a.htm,True,meeting March 21-22*
+2023-04-12,CPI,https://www.bls.gov/news.release/archives/cpi_04122023.htm,True,ref month March 2023
+2023-05-03,FOMC,https://www.federalreserve.gov/newsevents/pressreleases/monetary20230503a.htm,True,meeting May 2-3
+2023-05-10,CPI,https://www.bls.gov/news.release/archives/cpi_05102023.htm,True,ref month April 2023
+2023-06-13,CPI,https://www.bls.gov/news.release/archives/cpi_06132023.htm,True,ref month May 2023
+2023-06-14,FOMC,https://www.federalreserve.gov/newsevents/pressreleases/monetary20230614a.htm,True,meeting June 13-14*
+2023-07-12,CPI,https://www.bls.gov/news.release/archives/cpi_07122023.htm,True,ref month June 2023
+2023-07-26,FOMC,https://www.federalreserve.gov/newsevents/pressreleases/monetary20230726a.htm,True,meeting July 25-26
+2023-08-10,CPI,https://www.bls.gov/news.release/archives/cpi_08102023.htm,True,ref month July 2023
+2023-09-13,CPI,https://www.bls.gov/news.release/archives/cpi_09132023.htm,True,ref month August 2023
+2023-09-20,FOMC,https://www.federalreserve.gov/newsevents/pressreleases/monetary20230920a.htm,True,meeting September 19-20*
+2023-10-12,CPI,https://www.bls.gov/news.release/archives/cpi_10122023.htm,True,ref month September 2023
+2023-11-01,FOMC,https://www.federalreserve.gov/newsevents/pressreleases/monetary20231101a.htm,True,meeting Oct/Nov 31-1
+2023-11-14,CPI,https://www.bls.gov/news.release/archives/cpi_11142023.htm,True,ref month October 2023
+2023-12-12,CPI,https://www.bls.gov/news.release/archives/cpi_12122023.htm,True,ref month November 2023
+2023-12-13,FOMC,https://www.federalreserve.gov/newsevents/pressreleases/monetary20231213a.htm,True,meeting December 12-13*
+2024-01-11,CPI,https://www.bls.gov/news.release/archives/cpi_01112024.htm,True,ref month December 2023
+2024-01-31,FOMC,https://www.federalreserve.gov/newsevents/pressreleases/monetary20240131a.htm,True,meeting January 30-31
+2024-02-13,CPI,https://www.bls.gov/news.release/archives/cpi_02132024.htm,True,ref month January 2024
+2024-03-12,CPI,https://www.bls.gov/news.release/archives/cpi_03122024.htm,True,ref month February 2024
+2024-03-20,FOMC,https://www.federalreserve.gov/newsevents/pressreleases/monetary20240320a.htm,True,meeting March 19-20*
+2024-04-10,CPI,https://www.bls.gov/news.release/archives/cpi_04102024.htm,True,ref month March 2024
+2024-05-01,FOMC,https://www.federalreserve.gov/newsevents/pressreleases/monetary20240501a.htm,True,meeting Apr/May 30-1
+2024-05-15,CPI,https://www.bls.gov/news.release/archives/cpi_05152024.htm,True,ref month April 2024
+2024-06-12,CPI,https://www.bls.gov/news.release/archives/cpi_06122024.htm,True,ref month May 2024
+2024-06-12,FOMC,https://www.federalreserve.gov/newsevents/pressreleases/monetary20240612a.htm,True,meeting June 11-12*
+2024-07-11,CPI,https://www.bls.gov/news.release/archives/cpi_07112024.htm,True,ref month June 2024
+2024-07-31,FOMC,https://www.federalreserve.gov/newsevents/pressreleases/monetary20240731a.htm,True,meeting July 30-31
+2024-08-14,CPI,https://www.bls.gov/news.release/archives/cpi_08142024.htm,True,ref month July 2024
+2024-09-11,CPI,https://www.bls.gov/news.release/archives/cpi_09112024.htm,True,ref month August 2024
+2024-09-18,FOMC,https://www.federalreserve.gov/newsevents/pressreleases/monetary20240918a.htm,True,meeting September 17-18*
+2024-10-10,CPI,https://www.bls.gov/news.release/archives/cpi_10102024.htm,True,ref month September 2024
+2024-11-07,FOMC,https://www.federalreserve.gov/newsevents/pressreleases/monetary20241107a.htm,True,meeting November 6-7
+2024-11-13,CPI,https://www.bls.gov/news.release/archives/cpi_11132024.htm,True,ref month October 2024
+2024-12-11,CPI,https://www.bls.gov/news.release/archives/cpi_12112024.htm,True,ref month November 2024
+2024-12-18,FOMC,https://www.federalreserve.gov/newsevents/pressreleases/monetary20241218a.htm,True,meeting December 17-18*
+2025-01-15,CPI,https://www.bls.gov/news.release/archives/cpi_01152025.htm,True,ref month December 2024
+2025-01-29,FOMC,https://www.federalreserve.gov/newsevents/pressreleases/monetary20250129a.htm,True,meeting January 28-29
+2025-02-12,CPI,https://www.bls.gov/news.release/archives/cpi_02122025.htm,True,ref month January 2025
+2025-03-12,CPI,https://www.bls.gov/news.release/archives/cpi_03122025.htm,True,ref month February 2025
+2025-03-19,FOMC,https://www.federalreserve.gov/newsevents/pressreleases/monetary20250319a.htm,True,meeting March 18-19*
+2025-04-10,CPI,https://www.bls.gov/news.release/archives/cpi_04102025.htm,True,ref month March 2025
+2025-05-07,FOMC,https://www.federalreserve.gov/newsevents/pressreleases/monetary20250507a.htm,True,meeting May 6-7
+2025-05-13,CPI,https://www.bls.gov/news.release/archives/cpi_05132025.htm,True,ref month April 2025
+2025-06-11,CPI,https://www.bls.gov/news.release/archives/cpi_06112025.htm,True,ref month May 2025
+2025-06-18,FOMC,https://www.federalreserve.gov/newsevents/pressreleases/monetary20250618a.htm,True,meeting June 17-18*
+2025-07-15,CPI,https://www.bls.gov/news.release/archives/cpi_07152025.htm,True,ref month June 2025
+2025-07-30,FOMC,https://www.federalreserve.gov/newsevents/pressreleases/monetary20250730a.htm,True,meeting July 29-30
+2025-08-12,CPI,https://www.bls.gov/news.release/archives/cpi_08122025.htm,True,ref month July 2025
+2025-09-11,CPI,https://www.bls.gov/news.release/archives/cpi_09112025.htm,True,ref month August 2025
+2025-09-17,FOMC,https://www.federalreserve.gov/newsevents/pressreleases/monetary20250917a.htm,True,meeting September 16-17*
+2025-10-24,CPI,https://www.bls.gov/news.release/archives/cpi_10242025.htm,True,ref month September 2025
+2025-10-29,FOMC,https://www.federalreserve.gov/newsevents/pressreleases/monetary20251029a.htm,True,meeting October 28-29
+2025-12-10,FOMC,https://www.federalreserve.gov/newsevents/pressreleases/monetary20251210a.htm,True,meeting December 9-10*
+2025-12-18,CPI,https://www.bls.gov/news.release/archives/cpi_12182025.htm,True,ref month November 2025

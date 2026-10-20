@@ -1,0 +1,99 @@
+date,tag,surprise,shape,2Y,5Y,10Y,30Y,2s10s,5s30s
+2021-01-13,CPI,neutral,bull flattener,0.0,-2.0,-5.0,-6.0,-5.0,-4.0
+2021-01-27,FOMC,neutral,twist (no level move),1.0,-1.0,-1.0,-1.0,-2.0,0.0
+2021-02-10,CPI,neutral,bull flattener,0.0,-2.0,-3.0,-3.0,-3.0,-1.0
+2021-03-10,CPI,neutral,bull flattener,-1.0,-3.0,-2.0,-2.0,-1.0,1.0
+2021-03-17,FOMC,neutral,bull steepener,-2.0,-3.0,1.0,4.0,3.0,7.0
+2021-04-13,CPI,dovish,bull flattener,-2.0,-4.0,-5.0,-2.0,-3.0,2.0
+2021-04-28,FOMC,neutral,parallel/unchanged,0.0,-2.0,0.0,0.0,0.0,2.0
+2021-05-12,CPI,neutral,bear steepener,0.0,7.0,5.0,5.0,5.0,-2.0
+2021-06-10,CPI,neutral,bull flattener,-2.0,-2.0,-5.0,-2.0,-3.0,0.0
+2021-06-16,FOMC,hawkish,bear steepener,5.0,10.0,6.0,0.0,1.0,-10.0
+2021-07-13,CPI,neutral,bear steepener,3.0,4.0,4.0,4.0,1.0,0.0
+2021-07-28,FOMC,neutral,bear steepener,0.0,1.0,1.0,1.0,1.0,0.0
+2021-08-11,CPI,neutral,parallel/unchanged,-1.0,-1.0,-1.0,0.0,0.0,1.0
+2021-09-14,CPI,neutral,bull flattener,0.0,-2.0,-5.0,-6.0,-5.0,-4.0
+2021-09-22,FOMC,hawkish,bear flattener,3.0,2.0,-1.0,-2.0,-4.0,-4.0
+2021-10-13,CPI,neutral,bull flattener,2.0,1.0,-3.0,-5.0,-5.0,-6.0
+2021-11-03,FOMC,neutral,bear steepener,1.0,4.0,4.0,4.0,3.0,-0.0
+2021-11-10,CPI,hawkish,parallel/unchanged,10.0,15.0,10.0,9.0,0.0,-6.0
+2021-12-10,CPI,dovish,bull steepener,-3.0,-1.0,-1.0,1.0,2.0,2.0
+2021-12-15,FOMC,neutral,bear steepener,2.0,3.0,3.0,4.0,1.0,1.0
+2022-01-12,CPI,neutral,bear flattener,2.0,-1.0,-1.0,0.0,-3.0,1.0
+2022-01-26,FOMC,hawkish,bear flattener,11.0,10.0,7.0,4.0,-4.0,-6.0
+2022-02-10,CPI,hawkish,bear flattener,25.0,14.0,9.0,5.0,-16.0,-9.0
+2022-03-10,CPI,hawkish,parallel/unchanged,4.0,5.0,4.0,9.0,0.0,4.0
+2022-03-16,FOMC,hawkish,bear flattener,10.0,8.0,4.0,-3.0,-6.0,-11.0
+2022-04-12,CPI,dovish,bull steepener,-11.0,-13.0,-7.0,-2.0,4.0,11.0
+2022-05-04,FOMC,dovish,bull steepener,-12.0,-8.0,-4.0,-2.0,8.0,6.0
+2022-05-11,CPI,hawkish,bull flattener,4.0,-2.0,-8.0,-7.0,-12.0,-5.0
+2022-06-10,CPI,hawkish,bear flattener,23.0,18.0,11.0,2.0,-12.0,-16.0
+2022-06-15,FOMC,dovish,bull steepener,-25.0,-23.0,-16.0,-6.0,9.0,17.0
+2022-07-13,CPI,hawkish,bear flattener,10.0,1.0,-5.0,-5.0,-15.0,-6.0
+2022-07-27,FOMC,dovish,bull steepener,-6.0,-7.0,-3.0,0.0,3.0,7.0
+2022-08-10,CPI,dovish,bull steepener,-5.0,-4.0,-2.0,3.0,3.0,7.0
+2022-09-13,CPI,hawkish,bear flattener,17.0,11.0,5.0,-2.0,-12.0,-13.0
+2022-09-21,FOMC,hawkish,twist (no level move),6.0,-1.0,-6.0,-9.0,-12.0,-8.0
+2022-10-13,CPI,hawkish,bear flattener,19.0,9.0,6.0,7.0,-13.0,-2.0
+2022-11-02,FOMC,hawkish,bear flattener,7.0,3.0,3.0,1.0,-4.0,-2.0
+2022-11-10,CPI,dovish,bull flattener,-27.0,-32.0,-30.0,-28.0,-3.0,4.0
+2022-12-13,CPI,dovish,bull steepener,-17.0,-14.0,-10.0,-4.0,7.0,10.0
+2022-12-14,FOMC,neutral,bull flattener,1.0,-2.0,-2.0,-1.0,-3.0,1.0
+2023-01-12,CPI,dovish,bull flattener,-8.0,-13.0,-11.0,-11.0,-3.0,2.0
+2023-02-01,FOMC,dovish,bull flattener,-12.0,-15.0,-13.0,-10.0,-1.0,5.0
+2023-02-14,CPI,hawkish,bear flattener,8.0,7.0,5.0,2.0,-3.0,-5.0
+2023-03-14,CPI,hawkish,bear flattener,17.0,10.0,9.0,7.0,-8.0,-3.0
+2023-03-22,FOMC,dovish,bull steepener,-21.0,-19.0,-11.0,-5.0,10.0,14.0
+2023-04-12,CPI,dovish,bull steepener,-8.0,-8.0,-2.0,2.0,6.0,10.0
+2023-05-03,FOMC,dovish,bull steepener,-8.0,-9.0,-6.0,-2.0,2.0,7.0
+2023-05-10,CPI,dovish,bull steepener,-11.0,-14.0,-10.0,-5.0,1.0,9.0
+2023-06-13,CPI,hawkish,bear flattener,12.0,12.0,11.0,7.0,-1.0,-5.0
+2023-06-14,FOMC,hawkish,bear flattener,7.0,5.0,-1.0,-4.0,-8.0,-9.0
+2023-07-12,CPI,dovish,bull steepener,-16.0,-17.0,-13.0,-7.0,3.0,10.0
+2023-07-26,FOMC,neutral,bull flattener,-3.0,-6.0,-5.0,-1.0,-2.0,5.0
+2023-08-10,CPI,neutral,bear steepener,3.0,9.0,9.0,6.0,6.0,-3.0
+2023-09-13,CPI,neutral,parallel/unchanged,-2.0,-2.0,-2.0,-1.0,0.0,1.0
+2023-09-20,FOMC,hawkish,bear flattener,4.0,1.0,-2.0,-3.0,-6.0,-4.0
+2023-10-12,CPI,hawkish,bear steepener,7.0,10.0,12.0,13.0,5.0,3.0
+2023-11-01,FOMC,dovish,bull steepener,-12.0,-15.0,-11.0,-8.0,1.0,7.0
+2023-11-14,CPI,dovish,bull steepener,-22.0,-24.0,-19.0,-14.0,3.0,10.0
+2023-12-12,CPI,neutral,bull flattener,2.0,-2.0,-3.0,-2.0,-5.0,-0.0
+2023-12-13,FOMC,dovish,bull steepener,-27.0,-23.0,-16.0,-11.0,11.0,12.0
+2024-01-11,CPI,dovish,bull steepener,-11.0,-9.0,-6.0,-2.0,5.0,7.0
+2024-01-31,FOMC,dovish,bull steepener,-9.0,-9.0,-7.0,-6.0,2.0,3.0
+2024-02-13,CPI,hawkish,bear flattener,18.0,18.0,14.0,9.0,-4.0,-9.0
+2024-03-12,CPI,hawkish,bear flattener,7.0,7.0,6.0,5.0,-1.0,-2.0
+2024-03-20,FOMC,dovish,bull steepener,-9.0,-6.0,-3.0,1.0,6.0,7.0
+2024-04-10,CPI,hawkish,bear flattener,23.0,24.0,19.0,14.0,-4.0,-10.0
+2024-05-01,FOMC,dovish,bull steepener,-8.0,-8.0,-6.0,-5.0,2.0,3.0
+2024-05-15,CPI,dovish,bull flattener,-8.0,-11.0,-9.0,-7.0,-1.0,4.0
+2024-06-12,BOTH,,bull flattener,-6.0,-9.0,-8.0,-6.0,-2.0,3.0
+2024-07-11,CPI,dovish,bull steepener,-12.0,-11.0,-8.0,-6.0,4.0,5.0
+2024-07-31,FOMC,dovish,parallel/unchanged,-6.0,-6.0,-6.0,-5.0,-0.0,1.0
+2024-08-14,CPI,neutral,bull flattener,1.0,-1.0,-2.0,-4.0,-3.0,-3.0
+2024-09-11,CPI,neutral,bear flattener,3.0,2.0,0.0,-1.0,-3.0,-3.0
+2024-09-18,FOMC,hawkish,bear steepener,2.0,3.0,5.0,7.0,3.0,4.0
+2024-10-10,CPI,neutral,bear steepener,-1.0,0.0,3.0,4.0,4.0,4.0
+2024-11-07,FOMC,neutral,bull flattener,-6.0,-10.0,-11.0,-8.0,-5.0,2.0
+2024-11-13,CPI,dovish,bull steepener,-7.0,-2.0,1.0,5.0,8.0,7.0
+2024-12-11,CPI,neutral,bear steepener,0.0,4.0,4.0,7.0,4.0,3.0
+2024-12-18,FOMC,hawkish,parallel/unchanged,10.0,14.0,10.0,6.0,0.0,-8.0
+2025-01-15,CPI,dovish,bull flattener,-10.0,-14.0,-12.0,-10.0,-2.0,4.0
+2025-01-29,FOMC,hawkish,bear flattener,2.0,2.0,0.0,1.0,-2.0,-1.0
+2025-02-12,CPI,hawkish,bear steepener,7.0,11.0,8.0,8.0,1.0,-3.0
+2025-03-12,CPI,hawkish,bear flattener,7.0,6.0,4.0,4.0,-3.0,-2.0
+2025-03-19,FOMC,neutral,bull steepener,-5.0,-4.0,-4.0,-2.0,1.0,2.0
+2025-04-10,CPI,dovish,bull steepener,-7.0,-2.0,6.0,14.0,13.0,16.0
+2025-05-07,FOMC,neutral,bull flattener,0.0,-3.0,-4.0,-4.0,-4.0,-1.0
+2025-05-13,CPI,hawkish,parallel/unchanged,4.0,3.0,4.0,5.0,0.0,2.0
+2025-06-11,CPI,dovish,bull steepener,-7.0,-6.0,-6.0,-2.0,1.0,4.0
+2025-06-18,FOMC,neutral,bull flattener,0.0,-1.0,-1.0,0.0,-1.0,1.0
+2025-07-15,CPI,hawkish,bear steepener,5.0,7.0,7.0,4.0,2.0,-3.0
+2025-07-30,FOMC,hawkish,bear flattener,8.0,6.0,4.0,3.0,-4.0,-3.0
+2025-08-12,CPI,dovish,bull steepener,-4.0,0.0,2.0,4.0,6.0,4.0
+2025-09-11,CPI,neutral,bull flattener,-2.0,0.0,-3.0,-4.0,-1.0,-4.0
+2025-09-17,FOMC,neutral,bear steepener,1.0,3.0,2.0,1.0,1.0,-2.0
+2025-10-24,CPI,neutral,bear steepener,0.0,0.0,1.0,1.0,1.0,1.0
+2025-10-29,FOMC,hawkish,bear flattener,12.0,10.0,9.0,6.0,-3.0,-4.0
+2025-12-10,FOMC,dovish,bull steepener,-7.0,-6.0,-5.0,-2.0,2.0,4.0
+2025-12-18,CPI,dovish,bull flattener,-3.0,-4.0,-4.0,-3.0,-1.0,1.0

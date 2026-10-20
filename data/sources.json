@@ -1,0 +1,135 @@
+{
+  "CPI release dates (BLS archive)": {
+    "value": "59 releases 2021-01-01..2025-12-31; 59 match ALFRED vintages",
+    "url": "https://www.bls.gov/bls/news-release/cpi.htm",
+    "as_of": "2026-10-20",
+    "how": "bls.gov returns 403 to scripts; archive link list captured via web fetcher -> data/raw/bls_cpi_archive_links.txt; date parsed from cpi_MMDDYYYY link",
+    "verified": true
+  },
+  "CPI release-date cross-check (ALFRED CPIAUCSL vintages)": {
+    "value": "59 first-release dates in period",
+    "url": "https://alfred.stlouisfed.org/series?seid=CPIAUCSL",
+    "as_of": "2026-10-20",
+    "how": "fredapi get_series_all_releases",
+    "verified": true
+  },
+  "FOMC decision dates (scheduled)": {
+    "value": "40 meetings; 40 match statement-link date",
+    "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "as_of": "2026-10-20",
+    "how": "requests GET, cached data/raw/fomccalendars.htm, regex parse",
+    "verified": true
+  },
+  "FOMC unscheduled actions (excluded)": {
+    "value": "1: 2025-08-22",
+    "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "as_of": "2026-10-20",
+    "how": "rows labelled notation vote / unscheduled; saved data/fomc_unscheduled_excluded.csv",
+    "verified": true
+  },
+  "FRED DGS2 (2Y CMT yield)": {
+    "value": "1249 non-NaN daily obs 2021-01-01..2025-12-31",
+    "url": "https://fred.stlouisfed.org/series/DGS2",
+    "as_of": "2026-10-20",
+    "how": "fredapi Fred.get_series, cached in data/raw/",
+    "verified": true
+  },
+  "FRED DGS5 (5Y CMT yield)": {
+    "value": "1249 non-NaN daily obs 2021-01-01..2025-12-31",
+    "url": "https://fred.stlouisfed.org/series/DGS5",
+    "as_of": "2026-10-20",
+    "how": "fredapi Fred.get_series, cached in data/raw/",
+    "verified": true
+  },
+  "FRED DGS10 (10Y CMT yield)": {
+    "value": "1249 non-NaN daily obs 2021-01-01..2025-12-31",
+    "url": "https://fred.stlouisfed.org/series/DGS10",
+    "as_of": "2026-10-20",
+    "how": "fredapi Fred.get_series, cached in data/raw/",
+    "verified": true
+  },
+  "FRED DGS30 (30Y CMT yield)": {
+    "value": "1249 non-NaN daily obs 2021-01-01..2025-12-31",
+    "url": "https://fred.stlouisfed.org/series/DGS30",
+    "as_of": "2026-10-20",
+    "how": "fredapi Fred.get_series, cached in data/raw/",
+    "verified": true
+  },
+  "FRED DFEDTARU (Fed funds target upper bound)": {
+    "value": "1826 obs; 0.25% -> 3.75%",
+    "url": "https://fred.stlouisfed.org/series/DFEDTARU",
+    "as_of": "2026-10-20",
+    "how": "fredapi Fred.get_series",
+    "verified": true
+  },
+  "CME contract unit ZT=F": {
+    "value": "face $200,000 -> $2,000 per 1.00 point",
+    "url": "https://www.cmegroup.com/markets/interest-rates/us-treasury/2-year-us-treasury-note.contractSpecs.html",
+    "as_of": "2026-10-20",
+    "how": "cmegroup.com blocks scripts (403) and web fetcher (timeout); value taken from cmegroup.com pages as shown in web-search results \u2014 confirm manually",
+    "verified": false
+  },
+  "CME contract unit ZF=F": {
+    "value": "face $100,000 -> $1,000 per 1.00 point",
+    "url": "https://www.cmegroup.com/markets/interest-rates/us-treasury/5-year-us-treasury-note.contractSpecs.html",
+    "as_of": "2026-10-20",
+    "how": "cmegroup.com blocks scripts (403) and web fetcher (timeout); value taken from cmegroup.com pages as shown in web-search results \u2014 confirm manually",
+    "verified": false
+  },
+  "CME contract unit ZN=F": {
+    "value": "face $100,000 -> $1,000 per 1.00 point",
+    "url": "https://www.cmegroup.com/markets/interest-rates/us-treasury/10-year-us-treasury-note.contractSpecs.html",
+    "as_of": "2026-10-20",
+    "how": "cmegroup.com blocks scripts (403) and web fetcher (timeout); value taken from cmegroup.com pages as shown in web-search results \u2014 confirm manually",
+    "verified": false
+  },
+  "CME contract unit ZB=F": {
+    "value": "face $100,000 -> $1,000 per 1.00 point",
+    "url": "https://www.cmegroup.com/markets/interest-rates/us-treasury/us-treasury-bond.contractSpecs.html",
+    "as_of": "2026-10-20",
+    "how": "cmegroup.com blocks scripts (403) and web fetcher (timeout); value taken from cmegroup.com pages as shown in web-search results \u2014 confirm manually",
+    "verified": false
+  },
+  "CPI first-print MoM % (ALFRED CPIAUCSL, same-vintage)": {
+    "value": "58 releases joined to event-day \u03942Y",
+    "url": "https://alfred.stlouisfed.org/series?seid=CPIAUCSL",
+    "as_of": "2026-10-20",
+    "how": "fredapi get_series_all_releases; curve.cpi_first_print_mom",
+    "verified": true
+  },
+  "yfinance ZT=F daily close": {
+    "value": "1258 rows 2021-01-04..2025-12-31",
+    "url": "https://finance.yahoo.com/quote/ZT=F",
+    "as_of": "2026-10-20",
+    "how": "yfinance.download, cached in data/raw/",
+    "verified": true
+  },
+  "yfinance ZF=F daily close": {
+    "value": "1258 rows 2021-01-04..2025-12-31",
+    "url": "https://finance.yahoo.com/quote/ZF=F",
+    "as_of": "2026-10-20",
+    "how": "yfinance.download, cached in data/raw/",
+    "verified": true
+  },
+  "yfinance ZN=F daily close": {
+    "value": "1258 rows 2021-01-04..2025-12-31",
+    "url": "https://finance.yahoo.com/quote/ZN=F",
+    "as_of": "2026-10-20",
+    "how": "yfinance.download, cached in data/raw/",
+    "verified": true
+  },
+  "yfinance ZB=F daily close": {
+    "value": "1258 rows 2021-01-04..2025-12-31",
+    "url": "https://finance.yahoo.com/quote/ZB=F",
+    "as_of": "2026-10-20",
+    "how": "yfinance.download, cached in data/raw/",
+    "verified": true
+  },
+  "yfinance ZQ=F daily close": {
+    "value": "1258 rows 2021-01-04..2025-12-31",
+    "url": "https://finance.yahoo.com/quote/ZQ=F",
+    "as_of": "2026-10-20",
+    "how": "yfinance.download, cached in data/raw/",
+    "verified": true
+  }
+}
